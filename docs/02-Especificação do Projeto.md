@@ -27,11 +27,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `JOÃO, organizador de eventos`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Usuário do sistema  | Gerenciar o fluxo de pessoas de forma eficiente           | Melhor controle do evento               |
+|Palestrante      | Permite que João adicione, remova participantes               | Controlar a entrada dos participantes |
 
 
 
+|EU COMO... `MARIA, a estudante`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|--------------------|------------------------------------|----------------------------------------|
+|Usuário do sistema  | Notifica Maria sobre próximos eventos        | Controle pessoal                |
+|Estudante   |             | Fornece a lista com nome dos participantes |Fazer Networking
 
 
 
