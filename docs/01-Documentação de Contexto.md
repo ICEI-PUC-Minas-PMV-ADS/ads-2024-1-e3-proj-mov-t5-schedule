@@ -49,16 +49,24 @@ Em suma, o "Im Here" é uma ferramenta poderosa que pode transformar a organiza�
 1. Organizadores de eventos:
 
  Perfil: Profissionais que organizam eventos de diferentes portes e tipos, como palestras, workshops, treinamentos, congressos, etc.
+
  Conhecimentos prévios: Experiência na organização de eventos, conhecimento sobre gestão de projetos, marketing e comunicação.
+ 
  Relação com a tecnologia: Usuários de ferramentas digitais para organização de eventos, como planilhas, plataformas de inscrição online, etc.
+ 
  Relações hierárquicas: Podem ser autônomos, trabalhar em empresas ou instituições, ou fazer parte de uma equipe de organização de eventos.
+ 
  Objetivos: Simplificar e otimizar a organização de eventos, profissionalizar a experiência dos participantes, aumentar a eficiência e o controle do evento, expandir seus negócios e alcançar novos públicos.
 
 
 
 2. Participantes de eventos:
 Perfil: Pessoas que se interessam por participar de eventos de diferentes tipos, como palestras, workshops, treinamentos, congressos, etc.
+
 Conhecimentos prévios: Variável, de acordo com o tipo de evento.
+
 Relação com a tecnologia: Usuários de smartphones e aplicativos em geral.
+
 Relações hierárquicas: Não se aplica.
+
 Objetivos: Ter acesso a informações sobre eventos de interesse, se inscrever em eventos de forma rápida e fácil, ter uma experiência de participação profissional e personalizada, receber informações relevantes sobre o evento em tempo real.
