@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# IM HERE
 
 `CURSO`
 
@@ -13,7 +13,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Matheus Carvalho
 * Adriel Agnes Costa Bosco
 * Pedro Lima Pedrosa
-* Nome completo do aluno 4
+* Thiago Dias
 
 ## Orientador
 
