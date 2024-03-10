@@ -18,36 +18,36 @@ Cansado de lidar com a organização de eventos de forma manual e trabalhosa? O 
 
 1 -- Simplificar e otimizar:
 
->> Transformar a organização de eventos em uma experiência tranquila e eficiente.
+* Transformar a organização de eventos em uma experiência tranquila e eficiente.
 
->> Automatizar tarefas repetitivas para que você possa se concentrar no que realmente importa.
+* Automatizar tarefas repetitivas para que você possa se concentrar no que realmente importa.
 
->> Liberar tempo e recursos para que você possa investir na qualidade do seu evento.
+* Liberar tempo e recursos para que você possa investir na qualidade do seu evento.
 
 2 --Profissionalizar e agilizar:
 
->> Oferecer uma experiência profissional e impecável aos seus participantes.
+* Oferecer uma experiência profissional e impecável aos seus participantes.
 
-> Gerenciar tudo em um só lugar, com ferramentas intuitivas e fáceis de usar.
+* Gerenciar tudo em um só lugar, com ferramentas intuitivas e fáceis de usar.
 
->> Agilizar o processo de inscrição, controle de acesso e comunicação com os participantes.
+* Agilizar o processo de inscrição, controle de acesso e comunicação com os participantes.
 
 
 3 -- Engajar e fidelizar:
 
->> Criar um canal de comunicação direto e eficiente com seus participantes.
+* Criar um canal de comunicação direto e eficiente com seus participantes.
 
->> Enviar informações personalizadas e relevantes para cada participante.
+* Enviar informações personalizadas e relevantes para cada participante.
 
->> Coletar feedback valioso para melhorar seus eventos a cada edição.
+* Coletar feedback valioso para melhorar seus eventos a cada edição.
 
 4. Garantir segurança e controle:
 
->> Ter acesso a informações em tempo real sobre o seu evento.
+* Ter acesso a informações em tempo real sobre o seu evento.
 
->> Controlar o acesso ao evento e garantir a segurança dos seus participantes.
+* Controlar o acesso ao evento e garantir a segurança dos seus participantes.
 
->> Evitar problemas de lotação, falta de recursos ou superlotação.
+* Evitar problemas de lotação, falta de recursos ou superlotação.
 
 
 
