@@ -18,7 +18,6 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 * Ana participa de vários eventos universitários, como palestras, workshops e congressos. Ela frequentemente se perde em meio à multidão e tem dificuldade em encontrar os amigos e colegas com quem combinou de se encontrar.
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 
 
