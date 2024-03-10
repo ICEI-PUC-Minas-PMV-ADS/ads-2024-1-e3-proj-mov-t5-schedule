@@ -4,15 +4,15 @@ Cansado de lidar com a organização de eventos de forma manual e trabalhosa? O 
 
 ## Problema
 
->> Falta de uma ferramenta centralizada para gerenciar participantes de eventos.
+* Falta de uma ferramenta centralizada para gerenciar participantes de eventos.
 
->> Processo manual de inscrição e controle de acesso, sujeito a erros e ineficiências.
+* Processo manual de inscrição e controle de acesso, sujeito a erros e ineficiências.
 
->> Dificuldade em comunicar-se com os participantes de forma eficiente.
+* Dificuldade em comunicar-se com os participantes de forma eficiente.
 
->> O controle manual de acesso pode ser falho, permitindo a entrada de pessoas não autorizadas ou a saída de participantes sem registro. Isso pode comprometer a segurança do evento e gerar problemas de controle.
+* O controle manual de acesso pode ser falho, permitindo a entrada de pessoas não autorizadas ou a saída de participantes sem registro. Isso pode comprometer a segurança do evento e gerar problemas de controle.
 
->> Sem um sistema de controle eficiente, é difícil saber o número exato de inscritos e presentes em um evento, o que pode gerar problemas de lotação, falta de recursos ou até mesmo superlotação.
+* Sem um sistema de controle eficiente, é difícil saber o número exato de inscritos e presentes em um evento, o que pode gerar problemas de lotação, falta de recursos ou até mesmo superlotação.
 
 ## Objetivos
 
