@@ -35,7 +35,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `MARIA, a estudante`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Notifica Maria sobre próximos eventos        | Controle pessoal                |
-|Estudante   |    Fornece a lista com nome dos participantes          | |Fazer Networking
+|Estudante   |    Fornece a lista com nome dos participantes          | Fazer Networking |
 
 
 
