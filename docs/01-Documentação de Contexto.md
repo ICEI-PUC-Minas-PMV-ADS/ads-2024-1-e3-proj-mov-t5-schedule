@@ -1,46 +1,64 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Cansado de lidar com a organização de eventos de forma manual e trabalhosa? O aplicativo "Im Here" chegou para revolucionar a maneira como você gerencia seus participantes, liberando seu tempo e energia para focar no que realmente importa: o sucesso do seu evento.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+>> Falta de uma ferramenta centralizada para gerenciar participantes de eventos.
+>> Processo manual de inscrição e controle de acesso, sujeito a erros e ineficiências.
+>> Dificuldade em comunicar-se com os participantes de forma eficiente.
+>> O controle manual de acesso pode ser falho, permitindo a entrada de pessoas não autorizadas ou a saída de participantes sem registro. Isso pode comprometer a segurança do evento e gerar problemas de controle.
+>> Sem um sistema de controle eficiente, é difícil saber o número exato de inscritos e presentes em um evento, o que pode gerar problemas de lotação, falta de recursos ou até mesmo superlotação.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+1 -- Simplificar e otimizar:
+>> Transformar a organização de eventos em uma experiência tranquila e eficiente.
+>> Automatizar tarefas repetitivas para que você possa se concentrar no que realmente importa.
+>> Liberar tempo e recursos para que você possa investir na qualidade do seu evento.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+2 --Profissionalizar e agilizar:
+>> Oferecer uma experiência profissional e impecável aos seus participantes.
+>> Gerenciar tudo em um só lugar, com ferramentas intuitivas e fáceis de usar.
+>> Agilizar o processo de inscrição, controle de acesso e comunicação com os participantes.
+
+
+3 -- Engajar e fidelizar:
+>> Criar um canal de comunicação direto e eficiente com seus participantes.
+>> Enviar informações personalizadas e relevantes para cada participante.
+>> Coletar feedback valioso para melhorar seus eventos a cada edição.
+
+4. Garantir segurança e controle:
+>> Ter acesso a informações em tempo real sobre o seu evento.
+>> Controlar o acesso ao evento e garantir a segurança dos seus participantes.
+>> Evitar problemas de lotação, falta de recursos ou superlotação.
+
+
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+A organização de eventos é um processo complexo e trabalhoso que exige tempo, recursos e atenção aos detalhes. Tarefas como gerenciar inscrições, controlar o acesso, comunicar-se com os participantes e coletar feedback podem ser desafiadoras, especialmente para eventos maiores ou com maior número de participantes.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O aplicativo "Im Here" surge como uma solução inovadora para otimizar e simplificar a organização de eventos, liberando tempo e recursos para que os organizadores se concentrem no que realmente importa: o sucesso do evento.
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Em suma, o "Im Here" é uma ferramenta poderosa que pode transformar a organização de seus eventos, tornando-os mais eficientes, profissionais, seguros e memoráveis. Ao escolher este aplicativo, você estará investindo no sucesso do seu evento e na satisfacão dos seus participantes.
+
+
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+1. Organizadores de eventos:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+ Perfil: Profissionais que organizam eventos de diferentes portes e tipos, como palestras, workshops, treinamentos, congressos, etc.
+ Conhecimentos prévios: Experiência na organização de eventos, conhecimento sobre gestão de projetos, marketing e comunicação.
+ Relação com a tecnologia: Usuários de ferramentas digitais para organização de eventos, como planilhas, plataformas de inscrição online, etc.
+ Relações hierárquicas: Podem ser autônomos, trabalhar em empresas ou instituições, ou fazer parte de uma equipe de organização de eventos.
+ Objetivos: Simplificar e otimizar a organização de eventos, profissionalizar a experiência dos participantes, aumentar a eficiência e o controle do evento, expandir seus negócios e alcançar novos públicos.
 
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+
+
+2. Participantes de eventos:
+Perfil: Pessoas que se interessam por participar de eventos de diferentes tipos, como palestras, workshops, treinamentos, congressos, etc.
+Conhecimentos prévios: Variável, de acordo com o tipo de evento.
+Relação com a tecnologia: Usuários de smartphones e aplicativos em geral.
+Relações hierárquicas: Não se aplica.
+Objetivos: Ter acesso a informações sobre eventos de interesse, se inscrever em eventos de forma rápida e fácil, ter uma experiência de participação profissional e personalizada, receber informações relevantes sobre o evento em tempo real.
