@@ -8,19 +8,19 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+1. Maria, 40 anos, Empresária:
+* Maria tem 40 anos e é empresaria, ela  participa de diversos eventos de negócios e precisa manter contato com os outros participantes para networking. Ela também precisa acompanhar as palestras e workshops que está participando, mas nem sempre consegue se lembrar de todos os nomes e informações dos palestrantes.
+
+ 2. João, 35 anos, Organizador de eventos:
+* João Paulo tem 29 anos, ele é um palestrante e acaba organizando eventos de grande porte e acaba  por precisar de uma maneira eficiente de gerenciar a entrada e a saída dos participantes. Ele também precisa identificar rapidamente os participantes que já chegaram ao evento.
+
+3. Ana, 25 anos, Estudante:
+
+* Ana participa de vários eventos universitários, como palestras, workshops e congressos. Ela frequentemente se perde em meio à multidão e tem dificuldade em encontrar os amigos e colegas com quem combinou de se encontrar.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+
 
 ## Histórias de Usuários
 
