@@ -3,33 +3,50 @@
 Cansado de lidar com a organização de eventos de forma manual e trabalhosa? O aplicativo "Im Here" chegou para revolucionar a maneira como você gerencia seus participantes, liberando seu tempo e energia para focar no que realmente importa: o sucesso do seu evento.
 
 ## Problema
+
 >> Falta de uma ferramenta centralizada para gerenciar participantes de eventos.
+
 >> Processo manual de inscrição e controle de acesso, sujeito a erros e ineficiências.
+
 >> Dificuldade em comunicar-se com os participantes de forma eficiente.
+
 >> O controle manual de acesso pode ser falho, permitindo a entrada de pessoas não autorizadas ou a saída de participantes sem registro. Isso pode comprometer a segurança do evento e gerar problemas de controle.
+
 >> Sem um sistema de controle eficiente, é difícil saber o número exato de inscritos e presentes em um evento, o que pode gerar problemas de lotação, falta de recursos ou até mesmo superlotação.
 
 ## Objetivos
 
 1 -- Simplificar e otimizar:
+
 >> Transformar a organização de eventos em uma experiência tranquila e eficiente.
+
 >> Automatizar tarefas repetitivas para que você possa se concentrar no que realmente importa.
+
 >> Liberar tempo e recursos para que você possa investir na qualidade do seu evento.
 
 2 --Profissionalizar e agilizar:
+
 >> Oferecer uma experiência profissional e impecável aos seus participantes.
->> Gerenciar tudo em um só lugar, com ferramentas intuitivas e fáceis de usar.
+
+> Gerenciar tudo em um só lugar, com ferramentas intuitivas e fáceis de usar.
+
 >> Agilizar o processo de inscrição, controle de acesso e comunicação com os participantes.
 
 
 3 -- Engajar e fidelizar:
+
 >> Criar um canal de comunicação direto e eficiente com seus participantes.
+
 >> Enviar informações personalizadas e relevantes para cada participante.
+
 >> Coletar feedback valioso para melhorar seus eventos a cada edição.
 
 4. Garantir segurança e controle:
+
 >> Ter acesso a informações em tempo real sobre o seu evento.
+
 >> Controlar o acesso ao evento e garantir a segurança dos seus participantes.
+
 >> Evitar problemas de lotação, falta de recursos ou superlotação.
 
 
@@ -61,6 +78,7 @@ Em suma, o "Im Here" é uma ferramenta poderosa que pode transformar a organiza�
 
 
 2. Participantes de eventos:
+ 
 Perfil: Pessoas que se interessam por participar de eventos de diferentes tipos, como palestras, workshops, treinamentos, congressos, etc.
 
 Conhecimentos prévios: Variável, de acordo com o tipo de evento.
