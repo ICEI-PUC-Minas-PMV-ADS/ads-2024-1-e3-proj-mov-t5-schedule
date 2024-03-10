@@ -10,9 +10,9 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
+* Matheus Carvalho
+* Adriel Agnes Costa Bosco
+* Pedro Lima Pedrosa
 * Nome completo do aluno 4
 
 ## Orientador
