@@ -1,12 +1,12 @@
 # IM HERE
 
-`CURSO`
+`Análise e desenvolvimento de sistema`
 
-`DISCIPLINA`
+`Projeto Prático`
 
-`SEMESTRE`
+`3º Semestre`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto em questão é uma aplicação móvel desenvolvida em React Native, com o propósito de fornecer aos usuários uma ferramenta intuitiva e eficaz para organizar sua rotina diária. A aplicação permitirá aos usuários criar, visualizar, editar e excluir eventos em sua agenda pessoal, facilitando a gestão de compromissos e tarefas cotidianas. Com uma interface amigável e recursos de segurança de dados, o aplicativo visa proporcionar uma experiência de usuário fluida e segura, compatível com dispositivos iOS e Android.
 
 ## Integrantes
 
