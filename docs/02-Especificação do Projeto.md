@@ -141,11 +141,16 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+| **ID Requisito** | **Descrição do Requisito** | **ID Caso de Uso** | **ID Componente** | **ID Teste** |
+|------------------|------------------------------|--------------------|-------------------|--------------|
+| REQ001           | O usuário pode criar um novo evento na agenda | UC001 | CMP001 | TEST001 |
+| REQ002           | O usuário pode visualizar os eventos agendados | UC002 | CMP002 | TEST002 |
+| REQ003           | O usuário pode editar um evento existente na agenda | UC003 | CMP003 | TEST003 |
+| REQ004           | O usuário pode excluir um evento existente na agenda | UC004 | CMP004 | TEST004 |
+| REQ005           | A aplicação deve ser compatível com dispositivos iOS e Android | - | - | - |
+| REQ006           | A aplicação deve garantir a segurança dos dados do usuário | - | - | - |
+| REQ007           | A aplicação deve ter uma interface intuitiva e fácil de usar | - | - | - |
 
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
