@@ -1,87 +1,73 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
+A metodologia de trabalho da nossa equipe de TI é fundamentada no framework ágil Scrum, que visa aumentar a eficiência, flexibilidade e colaboração no desenvolvimento de projetos de software. Utilizamos uma variedade de ferramentas especializadas para diferentes aspectos do processo, visando otimizar nossa produtividade e garantir a entrega de produtos de alta qualidade dentro dos prazos estabelecidos.
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+No centro de nossa metodologia está o Scrum, que organiza nosso trabalho em ciclos iterativos chamados de Sprints. Cada Sprint geralmente tem uma duração fixa de uma semana, durante a qual nos comprometemos a entregar incrementos de software funcionais e testáveis. Isso nos permite adaptar-nos rapidamente às mudanças nos requisitos do cliente e prioridades de projeto.
+
+Para gerenciar nossos projetos de banco de dados, confiamos no MySQL Workbench, uma ferramenta poderosa que nos permite modelar, visualizar e manipular nossos esquemas de banco de dados de forma eficiente. Com o MySQL Workbench, podemos colaborar na definição e evolução de nossos bancos de dados de forma transparente e organizada.
+
+Nossa comunicação interna é facilitada pelo WhatsApp, uma plataforma de mensagens instantâneas que nos permite manter contato em tempo real, discutir ideias, tirar dúvidas e resolver problemas de forma rápida e eficaz. Utilizamos grupos dedicados a projetos específicos para manter todos os membros da equipe informados e alinhados.
+
+Para o desenvolvimento de código, confiamos no Visual Studio, uma IDE (Ambiente de Desenvolvimento Integrado) robusta e altamente personalizável. Com o Visual Studio, podemos escrever, depurar e testar nosso código de forma eficiente, aproveitando as ferramentas de controle de versão integradas e a vasta gama de extensões disponíveis.
+
+Quando se trata de design de interfaces de usuário, recorremos ao Balsamiq, uma ferramenta de wireframing intuitiva que nos permite esboçar e iterar rapidamente sobre os layouts e fluxos de nossas aplicações. Com o Balsamiq, podemos capturar as ideias dos clientes e transformá-las em designs tangíveis antes mesmo de começar a codificar.
+
+Finalmente, para gerenciar nossas tarefas e acompanhar nosso progresso, confiamos no Trello, uma plataforma de gerenciamento de projetos baseada em quadros Kanban. Com o Trello, podemos criar, organizar e priorizar nossos cards de tarefa, atribuir responsabilidades e acompanhar o progresso de cada etapa do processo.
+
+Em conjunto, essas ferramentas e metodologias nos capacitam a trabalhar de forma colaborativa, ágil e eficiente, permitindo-nos enfrentar os desafios do desenvolvimento de software com confiança e sucesso.
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+| Ambiente                | Plataforma       | Link de Acesso                            |
+|-------------------------|------------------|-------------------------------------------|
+| Desenvolvimento de Software | Visual Studio    | [Visual Studio](https://visualstudio.microsoft.com/) |
+| Banco de Dados          | MySQL Workbench  | [MySQL Workbench](https://www.mysql.com/products/workbench/) |
+| Comunicação             | WhatsApp         | [WhatsApp](https://www.whatsapp.com/)   |
+| Design de Telas         | Balsamiq         | [Balsamiq](https://balsamiq.com/)       |
+| Gerenciamento de Projetos | Trello          | [Trello](https://trello.com/)           |
+| Desenvolvimento de Aplicações Móveis | React Native | [React Native](https://reactnative.dev/) |
+| Desenvolvimento de APIs | Node.js | [Node.js](https://nodejs.org/) |
 
 ## Controle de Versão
 
-A ferramenta de controle de versão adotada no projeto foi o
-[Git](https://git-scm.com/), sendo que o [Github](https://github.com)
-foi utilizado para hospedagem do repositório.
+No controle de versão, o projeto adotou o Git, com hospedagem do repositório no GitHub. A configuração do projeto no Git segue a seguinte estrutura:
 
-O projeto segue a seguinte convenção para o nome de branches:
+### Gerência de Tags
+Tags são usadas para marcar versões específicas do software. Elas são criadas sempre que uma versão estável é lançada. Por exemplo, após uma versão ser considerada estável, uma tag é criada para marcá-la como tal.
 
-- `main`: versão estável já testada do software
-- `unstable`: versão já testada do software, porém instável
-- `testing`: versão em testes do software
-- `dev`: versão de desenvolvimento do software
+### Merges
+Merges são realizados quando o trabalho de diferentes branches precisa ser combinado. Por exemplo, quando uma funcionalidade é desenvolvida em um branch de feature e está pronta para ser integrada à versão principal, um merge é realizado.
 
-Quanto à gerência de issues, o projeto adota a seguinte convenção para
-etiquetas:
+### Commits
+Commits são usados para registrar alterações no código-fonte. Cada commit inclui uma mensagem descritiva que resume as alterações feitas. Essas mensagens seguem uma convenção clara para facilitar a compreensão do histórico do projeto.
 
-- `documentation`: melhorias ou acréscimos à documentação
-- `bug`: uma funcionalidade encontra-se com problemas
-- `enhancement`: uma funcionalidade precisa ser melhorada
-- `feature`: uma nova funcionalidade precisa ser introduzida
+### Branches
+O projeto utiliza diferentes branches para organizar o desenvolvimento. O `main` contém a versão estável e testada do software, enquanto o `dev` é usado para desenvolvimento contínuo. Os branches `unstable` e `testing` são utilizados para testes e experimentação de novas funcionalidades.
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Microfundamento: Gerência de Configuração](https://pucminas.instructure.com/courses/87878/)
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
+### Gerência de Issues
+As issues são usadas para acompanhar bugs, melhorias e novas funcionalidades. Cada issue é categorizada com uma etiqueta correspondente (bug, enhancement, feature, documentation) para facilitar a identificação e priorização do trabalho a ser realizado.
 
 ## Gerenciamento de Projeto
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada de acordo com as seguintes funções:
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
-> - [Os papéis do Scrum e a verdade sobre cargos nessa técnica](https://www.atlassian.com/br/agile/scrum/roles)
+- Scrum Master: Matheus Carvalho;
+- Product Owner: Thiago Dias;
+- Equipe de Desenvolvimento: Matheus Carvalho, Thiago Dias, Pedro Lima;
+- Equipe de Design: Adriel Agnes.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo deverá fazer uso do recurso de gerenciamento de projeto oferecido pelo GitHub, que permite acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Planejamento e Gestáo Ágil de Projetos](https://pucminas.instructure.com/courses/87878/pages/unidade-2-tema-2-utilizacao-de-ferramentas-para-controle-de-versoes-de-software)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards)
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O processo de desenvolvimento segue as práticas ágeis do Scrum. Utilizamos o recurso de gerenciamento de projeto oferecido pelo GitHub para acompanhar o progresso do projeto, atribuir tarefas, e monitorar o status das atividades. O GitHub permite a criação de quadros de projeto, onde as tarefas são organizadas em colunas (to do, in progress, done) para visualização e controle do fluxo de trabalho.
 
 ### Ferramentas
 
-As ferramentas empregadas no projeto são:
+As ferramentas escolhidas foram selecionadas com base na integração entre si e na capacidade de atender às necessidades específicas do projeto. O Visual Studio foi escolhido como editor de código devido à sua integração com o sistema de versionamento. O WhatsApp foi selecionado para comunicação por sua ubiquidade e facilidade de uso. O Balsamiq foi escolhido para design de telas por sua capacidade de criar wireframes rapidamente. O Trello foi selecionado para gerenciamento de projetos por sua flexibilidade e facilidade de uso na criação de quadros Kanban.
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+Para o desenvolvimento de aplicativos móveis, o React Native foi escolhido por sua capacidade de criar aplicativos multiplataforma de forma eficiente. Para o desenvolvimento de APIs, o Node.js foi escolhido por sua escalabilidade e eficiência no desenvolvimento de aplicativos baseados em servidor.
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
+Essas ferramentas foram escolhidas para maximizar a eficiência e colaboração da equipe durante o desenvolvimento do projeto.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
