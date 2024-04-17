@@ -1,0 +1,24 @@
+{
+  "name": "events_schedule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/issues"
+  },
+  "homepage": "https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mysql2": "^3.9.4",
+    "sequelize": "^6.37.3"
+  }
+}
