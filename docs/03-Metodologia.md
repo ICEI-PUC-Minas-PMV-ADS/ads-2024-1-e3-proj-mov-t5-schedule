@@ -13,7 +13,7 @@ Para o desenvolvimento de código, confiamos no Visual Studio, uma IDE (Ambiente
 
 Quando se trata de design de interfaces de usuário, recorremos ao Balsamiq, uma ferramenta de wireframing intuitiva que nos permite esboçar e iterar rapidamente sobre os layouts e fluxos de nossas aplicações. Com o Balsamiq, podemos capturar as ideias dos clientes e transformá-las em designs tangíveis antes mesmo de começar a codificar.
 
-Finalmente, para gerenciar nossas tarefas e acompanhar nosso progresso, confiamos no Trello, uma plataforma de gerenciamento de projetos baseada em quadros Kanban. Com o Trello, podemos criar, organizar e priorizar nossos cards de tarefa, atribuir responsabilidades e acompanhar o progresso de cada etapa do processo.
+Finalmente, para gerenciar nossas tarefas e acompanhar nosso progresso, confiamos no próprio GitHub, uma plataforma versátil que oferece recursos robustos para o gerenciamento de projetos. Com as issues do GitHub, podemos criar, organizar e priorizar nossas tarefas. Podemos atribuir responsabilidades, adicionar rótulos para categorização e acompanhar o progresso de cada etapa do processo diretamente na plataforma. As issues servirão como a principal forma de gerenciar o que está sendo feito, permitindo uma visão clara das tarefas em andamento e das pendências. Além disso, podemos utilizar os projetos do GitHub para criar quadros Kanban ou outras visualizações personalizadas para uma melhor organização e acompanhamento do nosso trabalho.
 
 Em conjunto, essas ferramentas e metodologias nos capacitam a trabalhar de forma colaborativa, ágil e eficiente, permitindo-nos enfrentar os desafios do desenvolvimento de software com confiança e sucesso.
 
@@ -25,7 +25,7 @@ Em conjunto, essas ferramentas e metodologias nos capacitam a trabalhar de forma
 | Banco de Dados          | MySQL Workbench  | [MySQL Workbench](https://www.mysql.com/products/workbench/) |
 | Comunicação             | WhatsApp         | [WhatsApp](https://www.whatsapp.com/)   |
 | Design de Telas         | Balsamiq         | [Balsamiq](https://balsamiq.com/)       |
-| Gerenciamento de Projetos | Trello          | [Trello](https://trello.com/)           |
+| Gerenciamento de Projetos | GitHub          | [GitHub](https://github.com/)           |
 | Desenvolvimento de Aplicações Móveis | React Native | [React Native](https://reactnative.dev/) |
 | Desenvolvimento de APIs | Node.js | [Node.js](https://nodejs.org/) |
 
