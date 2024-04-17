@@ -65,7 +65,7 @@ O processo de desenvolvimento segue as práticas ágeis do Scrum. Utilizamos o r
 
 ### Ferramentas
 
-As ferramentas escolhidas foram selecionadas com base na integração entre si e na capacidade de atender às necessidades específicas do projeto. O Visual Studio foi escolhido como editor de código devido à sua integração com o sistema de versionamento. O WhatsApp foi selecionado para comunicação por sua ubiquidade e facilidade de uso. O Balsamiq foi escolhido para design de telas por sua capacidade de criar wireframes rapidamente. O Trello foi selecionado para gerenciamento de projetos por sua flexibilidade e facilidade de uso na criação de quadros Kanban.
+As ferramentas escolhidas foram selecionadas com base na integração entre si e na capacidade de atender às necessidades específicas do projeto. O Visual Studio foi escolhido como editor de código devido à sua integração com o sistema de versionamento. O WhatsApp foi selecionado para comunicação por sua ubiquidade e facilidade de uso. O Balsamiq foi escolhido para design de telas por sua capacidade de criar wireframes rapidamente. O GitHub foi selecionado para gerenciamento de projetos por sua flexibilidade e facilidade de uso na criação de quadros Kanban.
 
 Para o desenvolvimento de aplicativos móveis, o React Native foi escolhido por sua capacidade de criar aplicativos multiplataforma de forma eficiente. Para o desenvolvimento de APIs, o Node.js foi escolhido por sua escalabilidade e eficiência no desenvolvimento de aplicativos baseados em servidor.
 
