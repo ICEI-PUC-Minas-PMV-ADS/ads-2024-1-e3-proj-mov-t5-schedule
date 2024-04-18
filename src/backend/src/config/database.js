@@ -1,13 +1,12 @@
+require('dotenv').config();
 const { Sequelize } = require('sequelize');
 
-// Configurações de conexão com o banco de dados
-const sequelize = new Sequelize('schedule_events', 'seu_usuario', 'sua_senha', {
-    host: 'localhost',
+const sequelize = new Sequelize(process.env.DB_DATABASE, process.env.DB_USER, process.env.DB_PASSWORD, {
+    host: process.env.DB_HOST,
     dialect: 'mysql',
-    // Outras opções de configuração aqui, se necessário
+    charset: 'utf8', 
+    collate: 'utf8_general_ci',
 });
-
-// Testando a conexão com o banco de dados
 async function testarConexao() {
     try {
         await sequelize.authenticate();

@@ -1,5 +1,5 @@
 // controllers/eventController.js
-const { Event } = require('../models');
+const Event = require('../models/Event');
 
 const createEvent = async (eventData) => {
     try {
