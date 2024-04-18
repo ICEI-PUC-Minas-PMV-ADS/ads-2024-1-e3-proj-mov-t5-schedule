@@ -1,12 +1,10 @@
-// models/User.js
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config/database');
-
-const { Event } = require('./Event');
+const bcrypt = require('bcrypt');
 
 const User = sequelize.define('User', {
     id: {
-        type: DataTypes.STRING(45),
+        type: DataTypes.INTEGER,
         primaryKey: true,
     },
     username: {
@@ -19,7 +17,7 @@ const User = sequelize.define('User', {
         unique: true,
     },
     password: {
-        type: DataTypes.STRING(32),
+        type: DataTypes.STRING(60), 
         allowNull: false,
     },
     create_time: {
@@ -30,8 +28,19 @@ const User = sequelize.define('User', {
         type: DataTypes.STRING(45),
         unique: true,
     },
+}, {
+    hooks: {
+        beforeCreate: async (user) => {
+            const hashedPassword = await bcrypt.hash(user.password, 10);
+            user.password = hashedPassword;
+        },
+        beforeUpdate: async (user) => {
+            if (user.changed('password')) {
+                const hashedPassword = await bcrypt.hash(user.password, 10);
+                user.password = hashedPassword;
+            }
+        },
+    },
 });
-
-User.hasMany(Event, { foreignKey: 'user_id' });
 
 module.exports = User;

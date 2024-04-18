@@ -23,6 +23,24 @@ router.get('/users/:userId', async (req, res) => {
     }
 });
 
-// Adicione outras rotas conforme necessário
+// Rota para atualizar um usuário existente
+router.put('/users/:id', async (req, res) => {
+    try {
+        const updatedUser = await userController.updateUser(req.params.id, req.body);
+        res.json(updatedUser);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// Rota para deletar um usuário existente
+router.delete('/users/:id', async (req, res) => {
+    try {
+        const result = await userController.deleteUser(req.params.id);
+        res.json(result);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
 
 module.exports = router;
