@@ -3,6 +3,8 @@ const sequelize = require('./src/config/database');
 const userRoutes = require('./src/routes/userRoutes');
 const eventRoutes = require('./src/routes/eventRoutes');
 const userHasEventRoutes = require('./src/routes/userHasEventRoutes');
+const authRoutes = require('./src/routes/authRoutes');
+const authenticateJWT = require('./src/middleware/authMiddleware');
 
 const app = express();
 
@@ -24,6 +26,7 @@ app.use(express.json());
 app.use('/api', userRoutes);
 app.use('/api', eventRoutes);
 app.use('/api', userHasEventRoutes);
+app.use('/api', authRoutes);
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
