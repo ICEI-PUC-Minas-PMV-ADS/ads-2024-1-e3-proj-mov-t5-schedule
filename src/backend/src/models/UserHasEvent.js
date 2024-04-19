@@ -20,12 +20,12 @@ const UserHasEvent = sequelize.define('UserHasEvent', {
         allowNull: false,
         defaultValue: false,
     },
-    come_in: {
+    check_in: {
         type: DataTypes.BOOLEAN,
         allowNull: false,
         defaultValue: false,
     },
-    get_out: {
+    check_out: {
         type: DataTypes.BOOLEAN,
         allowNull: false,
         defaultValue: false,
