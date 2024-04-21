@@ -43,4 +43,44 @@ router.delete('/users/:id', async (req, res) => {
     }
 });
 
+// Rota para inscrever um usuário em um evento
+router.post('/users/:userId/events/:eventId/signup', async (req, res) => {
+    try {
+        await userController.signUpForEvent(req, res);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// Rota para cancelar a inscrição de um usuário em um evento
+router.delete('/users/:userId/events/:eventId/signup', async (req, res) => {
+    try {
+        await userController.cancelSignUpForEvent(req, res);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// Rota para pagar por um evento
+router.post('/users/:userId/events/:eventId/pay', async (req, res) => {
+    try {
+        await userController.payForEvent(req, res);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// Rota para obter todos os eventos de um usuário
+router.get('/users/:userId/events', async (req, res) => {
+    const userId = req.params.userId;
+    
+    try {
+        const userEvents = await userController.getUserEvents(userId);
+        res.json(userEvents);
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+
 module.exports = router;

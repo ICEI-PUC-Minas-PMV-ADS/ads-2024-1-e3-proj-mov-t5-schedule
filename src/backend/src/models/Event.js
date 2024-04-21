@@ -9,6 +9,10 @@ const Event = sequelize.define('Event', {
         primaryKey: true,
         autoIncrement: true,
     },
+    user_id: {
+        type: DataTypes.INTEGER,
+        allowNull: false,
+    },
     name: {
         type: DataTypes.STRING(45),
         allowNull: false,
