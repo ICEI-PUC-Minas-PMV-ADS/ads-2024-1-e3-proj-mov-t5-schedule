@@ -21,7 +21,7 @@ async function login(req, res) {
     try {
         const token = jwt.sign({ userId: user.id }, jwtSecret, { expiresIn: '1h' });
         await Session.create({ user_id: user.id, token: token, expiration: expirationDate });        
-        res.json({ user, token });
+        res.json({ id: user.id, name: user.username, token });
     } catch (error) {
         console.error('Erro ao criar a sessão:', error);
         res.status(500).json({ error: 'Erro interno do servidor' });

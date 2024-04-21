@@ -6,7 +6,7 @@ const Event = require('./Event');
 
 const UserHasEvent = sequelize.define('UserHasEvent', {
     user_id: {
-        type: DataTypes.STRING(45),
+        type: DataTypes.INTEGER,
         primaryKey: true,
         allowNull: false,
     },
@@ -32,7 +32,7 @@ const UserHasEvent = sequelize.define('UserHasEvent', {
     },
     qr_code: {
         type: DataTypes.BLOB,
-        allowNull: false,
+        allowNull: true,
     },
 });
 
