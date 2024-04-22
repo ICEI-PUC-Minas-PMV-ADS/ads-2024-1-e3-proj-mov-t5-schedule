@@ -1,15 +1,23 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
+## Deletar Evento
 
-Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
+Neste caso o react native está utilizando uma rota para enviar uma API referente ao delete de uma informação e como pode observar já retorna o resultado com a exclusão
 
-Para cada requisito funcional, pode ser entregue um artefato desse tipo
+![del_evento](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/assets/99439235/bb0775d2-c77d-42c5-8082-ec5425fa3800)
 
-> **Links Úteis**:
->
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON Data Set Sample](https://opensource.adobe.com/Spry/samples/data_region/JSONDataSetSample.html)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+## Neste caso o react native está utilizando uma rota para enviar uma API referente a cancelar um evento
+
+![cancel_evento](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/assets/99439235/1726c05a-8544-4378-9f6e-366e5c35dc2e)
+
+## Neste caso o react native está utilizando uma rota para enviar uma API referente a confirmação da participação neste evento em questão
+
+![check_in](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/assets/99439235/0ba07c11-9dc3-4223-89d9-446bded5f07b)
+
+## Neste caso o react native está utilizando uma rota para enviar uma API referente a adicionar um novo evento
+
+![check_in](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/assets/99439235/c198fa56-88f5-44fd-bcea-c5688db49db2)
+
+## Neste caso o react native está utilizando uma rota para enviar uma API referente a adicionar um usuário
+
+![add_user](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/assets/99439235/c8cefd2b-cc5f-47bf-b865-61aef5d6f020)
