@@ -152,6 +152,7 @@ Imagem de exemplo
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+O orçamento poderá variar, inicialmente como o projeto não é algo que acreditamos que inicialmente o fluxo de utilização não será tão grande portanto utilizaremos uma VPS AWS simples, e um banco de dados de empresas nacionais como por exemplo Hostgator
 
-![Orçamento](img/02-orcamento.png)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/assets/99439235/53a772cf-4c0a-468c-89ee-5faffd53bd2b)
+
