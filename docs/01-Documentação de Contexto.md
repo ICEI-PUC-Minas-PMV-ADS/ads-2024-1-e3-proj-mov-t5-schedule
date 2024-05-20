@@ -41,7 +41,7 @@ Cansado de lidar com a organização de eventos de forma manual e trabalhosa? O 
 
 * Coletar feedback valioso para melhorar seus eventos a cada edição.
 
-4. Garantir segurança e controle:
+4 -- Garantir segurança e controle:
 
 * Ter acesso a informações em tempo real sobre o seu evento.
 
