@@ -53,8 +53,14 @@ Abaixo está a lista de tarefas a serem executadas pelos participantes:
 | **Caso de Teste** 	| **CT-05 – Editar Evento** 	|
 |:---:	|:---:	|
 |	Perfil 	| Usuário (apenas o que criou o Evento) |
-| Objetivo do Teste 	| Avaliar a usabilidade do menu de adicionar publicação |
+| Objetivo do Teste 	| Avaliar a usabilidade do menu de Edição de Evento |
 | Ações Necessárias 	| 1. Acessar a tela "Home" da aplicação ou "Meus Eventos"; <br> 2. Escolher um Evento da lista 3. Clicar no simbolo de Lapis; <br> 4. Realizar quaisquer alterações nas informações do Evento; <br> 5. Clicar em "Editar"; |
+
+| **Caso de Teste** 	| **CT-06 – Excluir Evento** 	|
+|:---:	|:---:	|
+|	Perfil 	| Usuário (apenas o que criou o Evento) |
+| Objetivo do Teste 	| Avaliar a usabilidade do menu de Excluir Evento |
+| Ações Necessárias 	| 1. Acessar a tela "Home" da aplicação ou "Meus Eventos"; <br> 2. Escolher um Evento da lista 3. Clicar no simbolo de Lixeira; <br> 4. Visualizar Pop-up se deseja realmente excluir; <br> 5. Clicar em "Sim"; |
 
 ## Dados a serem coletados
 
