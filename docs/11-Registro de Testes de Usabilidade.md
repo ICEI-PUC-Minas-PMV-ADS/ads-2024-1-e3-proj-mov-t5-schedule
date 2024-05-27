@@ -2,7 +2,7 @@
 
 ## Caso de Teste 01 – Cadastro de novo usuário
 
-![ct 1](img/registro.mp4)
+[![asciicast](img/login.jpg)](img/registro.mp4)
 
 ## Caso de Teste 02 – Login de usuário
 
@@ -10,7 +10,7 @@
 
 ## Caso de Teste 03 – Editar Perfil
 
-![ct 3](img/editar.mp4)
+[![asciicast](img/login.jpg)](img/editar.mp4)
 
 ## Caso de Teste 04 – Criar Eventos
 
@@ -18,7 +18,7 @@
 
 ## Caso de Teste 05 –  Editar Evento
 
-![ct 5](img/editar.mp4)
+[![asciicast](img/login.jpg)](img/editar.mp4)
 
 ## Caso de Teste 06 – Excluir Evento
 
