@@ -6,7 +6,7 @@
 
 ## Caso de Teste 02 – Login de usuário
 
-![ct 2](img/)
+![ct 2](img/login.jpg)
 
 ## Caso de Teste 03 – Editar Perfil
 
@@ -14,7 +14,7 @@
 
 ## Caso de Teste 04 – Criar Eventos
 
-![ct 4](img/)
+![ct 4](img/add_eventos.jpg)
 
 ## Caso de Teste 05 –  Editar Evento
 
@@ -24,9 +24,8 @@
 
 ![ct 6](img/)
 
+## Caso de Teste 07 – Listar Eventos
+
+![ct 6](img/lista_eventos.jpg)
 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
-
-> **Links Úteis**:
-> - [Ferramentas de Testes de Usabilidade](https://www.usability.gov/how-to-and-tools/resources/templates.html)
