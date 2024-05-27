@@ -2,7 +2,7 @@
 
 ## Caso de Teste 01 – Cadastro de novo usuário
 
-![ct 1](img/)
+![ct 1](img/registro.mp4)
 
 ## Caso de Teste 02 – Login de usuário
 
@@ -10,7 +10,7 @@
 
 ## Caso de Teste 03 – Editar Perfil
 
-![ct 3](img/)
+![ct 3](img/editar.mp4)
 
 ## Caso de Teste 04 – Criar Eventos
 
@@ -18,11 +18,11 @@
 
 ## Caso de Teste 05 –  Editar Evento
 
-![ct 5](img/)
+![ct 5](img/editar.mp4)
 
 ## Caso de Teste 06 – Excluir Evento
 
-![ct 6](img/)
+![ct 6](img/exclui_evento.jpg)
 
 ## Caso de Teste 07 – Listar Eventos
 
