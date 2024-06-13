@@ -1,14 +1,31 @@
 # Plano de Testes de Software
+Um plano de teste de software é um documento detalhado que descreve a estratégia, os objetivos, o escopo, os recursos, o cronograma e as atividades necessárias para testar um software. O objetivo principal é garantir que o software atenda aos requisitos especificados e funcione corretamente em diferentes cenários e condições.
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
+## Objetivo 
+Garantir que a aplicação móvel de agenda funcione conforme o esperado, proporcionando uma experiência de usuário intuitiva e sem erros.
+Escopo: Testes funcionais, de desempenho e de compatibilidade em dispositivos Android e iOS.
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+## Recursos Necessários
+- Dispositivos de teste (diversos modelos e versões de Android e iOS)
+- Ferramentas de automação de testes (Appium, Selenium)
+- Ferramentas de gerenciamento de bugs (JIRA, Bugzilla)
+- Ambiente de desenvolvimento integrado (IDE)
+- Testadores (QA team)
 
-Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
- 
-## Ferramentas de Testes (Opcional)
+## Componentes do Aplicativo a Serem Testados
+1. Criação de eventos
+2. Edição de eventos
+3. Exclusão de eventos
+4. Visualização de eventos
+5. Interface do usuário (UI)
 
-Comente sobre as ferramentas de testes utilizadas.
+## Critérios de Aprovação e Rejeição
+- Aprovação: Todos os casos de teste críticos passam, sem falhas em funções essenciais.
+- Rejeição: Qualquer falha em funções essenciais ou mais de 5% dos casos de teste falhando.
+
+
+
+
  
 > **Links Úteis**:
 > - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
