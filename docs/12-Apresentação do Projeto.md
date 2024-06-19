@@ -30,4 +30,4 @@ A identidade visual azul do projeto não é apenas uma escolha estética, mas um
 
 ## Conjunto de Slides (Estrutura)
 
-[Visualizar Documento](URL_DO_SEU_PDF)
+[Visualizar Documento](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-2024-1-e3-proj-mov-t5-schedule/blob/main/docs/img/slides.pdf)
