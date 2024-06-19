@@ -23,8 +23,38 @@ Escopo: Testes funcionais, de desempenho e de compatibilidade em dispositivos An
 - Aprovação: Todos os casos de teste críticos passam, sem falhas em funções essenciais.
 - Rejeição: Qualquer falha em funções essenciais ou mais de 5% dos casos de teste falhando.
 
+## Plano de Teste
+Abaixo está a lista de tarefas a serem executadas
 
+| **PT - 1** 	| **Cadastro** 	|
+|:---:	|:---:	|
+| Objetivo do Teste 	| Verificar se o usuário pode se Cadastrar |
+| Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Navegar ate a tela de cadastro; <br> Preencher as informações necessarias; <br> 3. Salvar |
+| Resultado Esperado | Criação de um novo perfil |
 
+| **PT - 2** 	| **Login** 	|
+|:---:	|:---:	|
+| Objetivo do Teste 	| Verificar se o usuário pode se Logar em sua conta |
+| Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Navegar ate a tela de Login; <br> Preencher as informações necessarias; <br> 3. Clicar em "Entrar" |
+| Resultado Esperado | Logar em um perfil |
+
+| **PT - 3** 	| **Criação de Evento** 	|
+|:---:	|:---:	|
+| Objetivo do Teste 	| Verificar se o usuário pode criar um evento. |
+| Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Navegar para a seção de criação de evento; <br> Inserir detalhes do evento (título, data); <br> 3. Salvar o Evento|
+| Resultado Esperado | O evento é salvo e aparece na visualização de Eventos |
+
+| **PT - 4** 	| **Edição de Evento** 	|
+|:---:	|:---:	|
+| Objetivo do Teste 	| Verificar se o usuário pode editar um evento existente. |
+| Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Selecionar um evento existente; <br> Editar detalhes (título, data); <br> 3. Salvar as alterações|
+| Resultado Esperado | As alterações são salvas e refletidas na visualização de Eventos |
+
+| **PT - 5** 	| **Exclusão de Evento** 	|
+|:---:	|:---:	|
+| Objetivo do Teste 	| Verificar se o usuário pode excluir um evento. |
+| Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Selecionar um evento existente; <br> Excluir o evento; <br> 3. Salvar as alterações|
+| Resultado Esperado | O evento é removido da visualização de Eventos |
 
  
 > **Links Úteis**:
