@@ -1,12 +1,29 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+## Plano de Teste 01 – Cadastro de novo usuário
 
-Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
+![TS 1](img/CadastroTS.png)
 
-## Avaliação
+## Plano de Teste 02 – Login de usuário
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+![TS 2](img/LoginTS.png)
+
+## Plano de Teste 03 – Criação de Evento
+
+![TS 3](img/CriarEventoTS.png)
+
+## Plano de Teste 04 – Visualização de Evento
+
+![TS 4](img/VerEventoTS.png)
+
+## Plano de Teste 05 – Edição de Evento
+
+![TS 5](img/EditarEvento.png)
+
+## Plano de Teste 06 – Exclusão de Evento
+
+![TS 6](img/ExcluirEventoTS.png)
+
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
