@@ -44,13 +44,19 @@ Abaixo está a lista de tarefas a serem executadas
 | Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Navegar para a seção de criação de evento; <br> Inserir detalhes do evento (título, data); <br> 3. Salvar o Evento|
 | Resultado Esperado | O evento é salvo e aparece na visualização de Eventos |
 
-| **PT - 4** 	| **Edição de Evento** 	|
+| **PT - 4** 	| **Ver Evento** 	|
+|:---:	|:---:	|
+| Objetivo do Teste 	| Verificar se o usuário pode visualizar eventos. |
+| Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Navegar para a seção de evento; <br> Visualizar todos os Eventos dos quais esta participando;|
+| Resultado Esperado | O evento é salvo e aparece na visualização de Eventos |
+
+| **PT - 5** 	| **Edição de Evento** 	|
 |:---:	|:---:	|
 | Objetivo do Teste 	| Verificar se o usuário pode editar um evento existente. |
 | Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Selecionar um evento existente; <br> Editar detalhes (título, data); <br> 3. Salvar as alterações|
 | Resultado Esperado | As alterações são salvas e refletidas na visualização de Eventos |
 
-| **PT - 5** 	| **Exclusão de Evento** 	|
+| **PT - 6** 	| **Exclusão de Evento** 	|
 |:---:	|:---:	|
 | Objetivo do Teste 	| Verificar se o usuário pode excluir um evento. |
 | Ações Necessárias 	| 1. Abrir a aplicação; <br> 2. Selecionar um evento existente; <br> Excluir o evento; <br> 3. Salvar as alterações|
